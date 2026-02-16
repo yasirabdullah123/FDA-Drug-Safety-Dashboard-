@@ -81,7 +81,7 @@ Selected because they all have a substantial number of FAERS reports — enough 
 
 ```
 fda-safety-dashboard/
-├── fda_dashboard.py   # Main app — all logic and UI
+├── Drug-Safety-Dashboard.py   # Main app — all logic and UI
 ├── requirements.txt   # Dependencies
 └── README.md
 ```
