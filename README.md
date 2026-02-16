@@ -17,6 +17,10 @@ This dashboard makes that data accessible. Select a drug and within seconds you 
 
 The result is a live, interactive safety snapshot of any drug — the kind of view that would otherwise require a data team, an FDA data subscription, and hours of processing.
 
+<img width="2040" height="606" alt="Screenshot 2026-02-16 at 23 29 45" src="https://github.com/user-attachments/assets/9d0d64a4-ef7c-47de-86f4-6535edbdec2b" />
+
+<img width="2006" height="380" alt="Screenshot 2026-02-16 at 23 30 06" src="https://github.com/user-attachments/assets/763506a9-40a6-4044-95d6-75f6fe404312" />
+
 ## Why It's Useful
 
 Drug safety data is public but it's not accessible. The raw FAERS database is a 20+ million row JSON nightmare that requires significant technical knowledge to query, clean, and interpret. Pharmaceutical companies pay for proprietary tools to do exactly this. This dashboard replicates the core of that workflow for free, in real time, in a browser.
