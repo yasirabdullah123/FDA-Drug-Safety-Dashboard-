@@ -17,9 +17,13 @@ This dashboard makes that data accessible. Select a drug and within seconds you 
 
 The result is a live, interactive safety snapshot of any drug — the kind of view that would otherwise require a data team, an FDA data subscription, and hours of processing.
 
-<img width="2040" height="606" alt="Screenshot 2026-02-16 at 23 29 45" src="https://github.com/user-attachments/assets/9d0d64a4-ef7c-47de-86f4-6535edbdec2b" />
 
-<img width="2006" height="380" alt="Screenshot 2026-02-16 at 23 30 06" src="https://github.com/user-attachments/assets/763506a9-40a6-4044-95d6-75f6fe404312" />
+<img width="2266" height="1010" alt="Screenshot 2026-02-16 at 23 30 47" src="https://github.com/user-attachments/assets/ef021184-1ed9-4454-b932-345dd92c13c2" />
+
+<img width="2371" height="1020" alt="Screenshot 2026-02-16 at 23 31 12" src="https://github.com/user-attachments/assets/6cf5b207-10b7-422d-a8ea-85e8463cb336" />
+
+<img width="1538" height="669" alt="Screenshot 2026-02-16 at 23 31 43" src="https://github.com/user-attachments/assets/ed6d9306-e4c6-4141-9a73-c9e1c10e618a" />
+
 
 ## Why It's Useful
 
