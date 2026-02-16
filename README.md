@@ -2,6 +2,7 @@
 
 A real-time pharmacovigilance dashboard that queries the FDA's public adverse event database (FAERS) and visualises drug safety data through interactive charts.
 
+[live Demo ]([url](https://kukibwav3guhvjdxua9yup.streamlit.app))
 ---
 
 ## What It Does
